@@ -5,6 +5,8 @@
 [![PyPI](https://img.shields.io/pypi/v/atomate?logo=pypi&logoColor=white)](https://pypi.org/project/atomate)
 [![Requires Python 3.8+](https://img.shields.io/badge/Python-3.8+-blue.svg?logo=python&logoColor=white)](https://python.org/downloads)
 
+# This is a customized version of atomate 
+
 atomate is a software for computational materials science that contains pre-built workflows to compute and analyze the properties of materials.
 
 - **Website (including documentation):** <https://hackingmaterials.github.io/atomate/>
